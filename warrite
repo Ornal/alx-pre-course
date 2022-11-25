@@ -1,0 +1,11 @@
+root@896cf839cfa:/# git clone https://{warrite}@github.com|{ornal}|alx_pre_course,
+git
+cloning into 'alx pre course'___
+root@896cf839cf9a:/#cd alx_pre_course/
+root@896cf839cf9a:/alx_pre_course#
+README,md My first read m.Tips
+root@896cf839cf9a:/alx_pre_course#echo"my first read me >README,md
+root@896cf839cf9a:/alx_pre_course# cat README,md
+my first readme
+root@896cf839cf9a:/alx_pre_course#git config__  global user,email"fikertegosaye@Gmail.com
+root@896cf839cfa:/alx_pre_course#git config__"ornal"
